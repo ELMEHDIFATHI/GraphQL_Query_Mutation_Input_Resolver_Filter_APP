@@ -15,3 +15,4 @@ input CreateSubjectRequest {
     subjectName: String!
     marksObtained: Float!
 }
+
